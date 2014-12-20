@@ -34,8 +34,17 @@ Artigo 3.º
 Compensação equitativa
 1 - A quantia referida no artigo anterior tem a natureza de compensação
 equitativa, visando compensar adequadamente os titulares de direitos dos danos
-patrimoniais sofridos com a prática da cópia privada, quando eles existirem
-comprovadamente.
+patrimoniais sofridos com a prática da cópia privada. Quando as seguintes
+condições forem todas satisfeitas:
+ a) for efetivamente possível técnica e legalmente possível criar a cópia, quer
+ por ser executada por pessoa singular e por a obra não conter Medidas
+ Eficazes de Protecção, que impeçam, ou restrijam a cópia;
+ b) os danos existirem comprovadamente, com base estudo que os identifique
+ caracterize quantifique;
+ c) os benefícios da cópia forem identificados, caracterizados e quantifique
+ os benefícios;
+ d) o resultado do balanço entre os benefícios e danos, for prejudicial ao
+ detentor dos direitos.
 2 - […].
 3 - […].
 
@@ -74,12 +83,13 @@ equitativa, pelo motivo de não ter ocorrido:
 
 2 - Para os efeitos do disposto no número anterior, as pessoas singulares ou
 coletivas adquirentes devem, requerer junto da Inspecção Geral de Actividades
-Culturais, através de plataforma electrónica disponível públicamente (na "World
+Culturais, através de plataforma electrónica disponível publicamente (na "World
 Wide Web") a situação de isenção.
 
 3 - A Inspecção Geral de Actividades Culturais, deve disponibilizar uma
 plataforma electrónica na "World Wide Web" para:
  a) o efeito referido no ponto 2 do mesmo artigo;
+ b) o efeito da isenção prevista na alinea "a" do ponto 1 do artigo 4º;
  b) a verificação da situação da isenção dos compradores, por parte dos
  comerciantes. Garantindo a protecção dos dados pessoais do comprador;
  c) o registo de compras com isenção por parte de um cidadão isento por parte
@@ -126,21 +136,10 @@ c) Scanners e outros equipamentos destinados apenas à digitalização - € 2/u
 d) Impressoras jacto de tinta – € 2,5/unidade;
 e) Impressoras laser – € 7,5/unidade.
 2 - Aparelhos, dispositivos e suportes:
-2.1 - Equipamentos e aparelhos analógicos:
-a) Gravadores áudio – € 0,20/ unidade; 
-b) Gravadores vídeo – € 0,20/ unidade.
-2.2 - Equipamentos e aparelhos digitais que compreendam as seguintes funções e não tenham incluídas memórias ou discos rígidos: 
-a) Gravadores de discos compactos específicos (CD) - € 1/unidade;
-b) Gravadores de discos versáteis - € 2/unidade;
+2.1 - Equipamentos e aparelhos digitais que compreendam as seguintes funções e não tenham incluídas memórias ou discos rígidos: 
 c) Gravadores mistos de discos compactos (CD e DVD) - € 3/unidade;
 d) Gravadores de discos Blu-ray - € 3/unidade.
 2.3 - Suportes e dispositivos de armazenamento:
-a) Suportes materiais analógicos, como cassetes áudio ou similares - € 0,10/ unidade;
-b) Suportes materiais analógicos, como cassetes vídeo ou similares - € 0,10/unidade;
-c) Discos compactos (CD) não regraváveis - € 0,05/unidade;
-d) Discos compactos de 8 centímetros - € 0,05/unidade;
-e) Discos de formato «Minidisc» - € 0,05/unidade;  
-f) Discos compactos regraváveis (CD-RW) - € 0,10/unidade;
 g) Discos versáteis não regraváveis (DVD-R) - € 0,10/unidade;
 h) Discos versáteis regraváveis (DVD-RW) - € 0,20/unidade;
 i) Discos versáteis RAM (DVD-RAM) – € 0,20/unidade;
